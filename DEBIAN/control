@@ -1,11 +1,10 @@
 Package: serene-google-menus
-Version: 1.1.0
-Maintainer: YamaD <yamad.linuxer@gmail.com>
+Version: 1.2.0
+Maintainer: YamaD <yamad@fascode.net>
 Section: utils
 Priority: optional
 Architecture: all
 Depends:
-Origin: SereneLinux
-Homepage: https://github.com/SereneTeam/serene-google-menus
+Origin: FascodeNetwork
+Homepage: https://github.com/FascodeNet/serene-google-menus
 Description: Provides a link to a web service to Google.
- 
