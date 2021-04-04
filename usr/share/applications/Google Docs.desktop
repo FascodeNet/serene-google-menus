@@ -3,6 +3,6 @@ Encoding=UTF-8
 Name=Google Docs
 Comment=A free Web-based application in which documents and spreadsheets can be created, edited and stored online.
 Type=Application
-Exec=flast-gecko-nightly https://docs.google.com/document
+Exec=exo-open https://docs.google.com/document
 Icon=/usr/share/icons/google-app/1492616984-7-docs-document-file-data-google-suits_83406.png
 Categories=GTK;Office;

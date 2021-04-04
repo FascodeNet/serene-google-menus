@@ -3,6 +3,6 @@ Encoding=UTF-8
 Name=Google
 Comment=A web search engine.
 Type=Application
-Exec=flast-gecko-nightly https://www.google.com
+Exec=exo-open https://www.google.com
 Icon=/usr/share/icons/google-app/google_icon-icons.com_62736.png
 Categories=GTK;Office;
