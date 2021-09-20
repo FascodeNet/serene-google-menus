@@ -3,6 +3,7 @@ Name: serene-google-menus
 Version: 1.0.4
 Release: 1%{?dist}
 Group: User Interface/Desktops
+BuildArch: noarch
 License: NONE
 Packager: kokkiemouse
 Vendor: INDETAIL
